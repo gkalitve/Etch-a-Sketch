@@ -9,3 +9,69 @@
     box-sizing: border-box;
     border: 1px solid black;
 }
+
+.tile10 {
+    filter: brightness(100%);
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.tile9 {
+    filter: brightness(90%);
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.tile8 {
+    filter: brightness(80%);
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.tile7 {
+    filter: brightness(70%);
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.tile6 {
+    filter: brightness(60%);
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.tile5 {
+    filter: brightness(50%);
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.tile4 {
+    filter: brightness(40%);
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.tile3 {
+    filter: brightness(30%);
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.tile2 {
+    filter: brightness(20%);
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.tile1 {
+    filter: brightness(10%);
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.tile0 {
+    filter: brightness(0%);
+    box-sizing: border-box;
+    border: 1px solid black;
+}
